@@ -1,0 +1,15 @@
+body {
+	padding-top: 3em;
+}
+
+ul {
+	list-style-type: none;
+}
+
+p {
+	font-size: 1.3em;
+}
+
+.h1 {
+	font-size: 1.5em;
+}
